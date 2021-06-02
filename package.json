@@ -120,7 +120,7 @@
 		"rewire": "^5.0.0",
 		"source-map": "^0.5.7",
 		"stylelint": "^13.6.1",
-		"stylelint-order": "^2.2.1",
+		"stylelint-order": "^4.1.0",
 		"supertest": "^3.4.2",
 		"ts-loader": "^7.0.5",
 		"ts-node": "^8.10.2",
